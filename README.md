@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to develop games using C# and the unity engine, I'm also learning UI design
 - 💞️ I’m looking to collaborate on video game projects
 - 📫 How to reach me, email: njuguna0karanja@gmail.com
-- Check out my<a href="https://jnk.netlify.app" target="blank"> website</a>
+- Check out my<a href="https://jnk.netlify.app" target=_blank> website</a>
 
 <!---
 kei-en/kei-en is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
