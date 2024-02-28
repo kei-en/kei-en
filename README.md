@@ -6,7 +6,7 @@
     >
 </div>
 
-**Hey! 👋 I'm Kei En** _(pronounced k,n)_
+**👋 I'm Kei En** _(pronounced k,n)_
 
 -------
 - ⚡ Music is my preferred chaser while coding 😆. Some of the tools I use to curate web apps and sites include:
@@ -39,6 +39,6 @@ Alright,
     <img src="https://img.shields.io/badge/-@kei--en-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kei-en/">
   <a/>
    <a href="mailto:karanjajnjuguna@gmail.com">
-    <img src="https://img.shields.io/badge/-karanjajnjuguna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanjajnjuguna@gmail.com">
+    <img src="https://img.shields.io/badge/-karanjajnjuguna-red?style=flat-square&logo=Gmail&logoColor=red&labelColor=F5F8FA&color=F5F8FA&link=mailto:karanjajnjuguna@gmail.com">
    <a/>
 </p>
