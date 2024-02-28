@@ -22,14 +22,16 @@
 -------
 Alright,
 
-<div align="start" style="margin-left: 20px">
+<div align="start">
     <img src="./goforth.jpeg"
         alt=""
         width="300"
-        style="padding: 10px"
+        style="padding: 10px;margin-left: 20px;"
     >
 </div>
+
 <p align="center">
+    👇
   <a href="https://twitter.com/kei_en_">
     <img src="https://img.shields.io/badge/-@kei_en_-14171A?style=flat-square&labelColor=14171A&logo=x&logoColor=white&link=https://twitter.com/kei_en_">
    <a/>
