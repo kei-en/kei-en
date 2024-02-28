@@ -6,7 +6,7 @@
     >
 </div>
 
-Hey!:wave: I'm Kei En (like the letters k and n)
+Hey! 👋 I'm Kei En (like the letters k and n)
 
 <p>
   <a href="https://twitter.com/kei_en_">
