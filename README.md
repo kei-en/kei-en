@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./project-meme.jpeg"
+    <img src="./hello-world-beanie.gif"
         alt=""
         width="300"
         style="padding: 10px"
@@ -10,7 +10,7 @@ Hey! 👋 I'm Kei En (like the letters k and n)
 
 <p>
   <a href="https://twitter.com/kei_en_">
-    <img src="https://img.shields.io/badge/-@kei_en_-2314171A?style=flat-square&labelColor=2314171A&logo=x&logoColor=white&link=https://twitter.com/kei_en_">
+    <img src="https://img.shields.io/badge/-@kei_en_-14171A?style=flat-square&labelColor=14171A&logo=x&logoColor=white&link=https://twitter.com/kei_en_">
    <a/>
   <a href="https://www.linkedin.com/in/kei-en/">
     <img src="https://img.shields.io/badge/-@kei--en-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kei-en/">
@@ -34,7 +34,7 @@ Hey! 👋 I'm Kei En (like the letters k and n)
 Alright,
 
 <div align="start" style="margin-left: 10px">
-    <img src="./project-meme.jpeg"
+    <img src="./goforth.jpeg"
         alt=""
         width="300"
         style="padding: 10px"
