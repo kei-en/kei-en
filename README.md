@@ -10,10 +10,10 @@ Hey! 👋 I'm Kei En (like the letters k and n)
 
 <p>
   <a href="https://twitter.com/kei_en_">
-    <img src="https://img.shields.io/badge/-@kei_en_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/kei_en_">
+    <img src="https://img.shields.io/badge/-@kei_en_-2314171A?style=flat-square&labelColor=2314171A&logo=x&logoColor=white&link=https://twitter.com/kei_en_">
    <a/>
   <a href="https://www.linkedin.com/in/kei-en/">
-    <img src="https://img.shields.io/badge/-kei-en-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kei-en/">
+    <img src="https://img.shields.io/badge/-@kei--en-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kei-en/">
   <a/>
    <a href="mailto:karanjajnjuguna@gmail.com">
     <img src="https://img.shields.io/badge/-karanjajnjuguna@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karanjajnjuguna@gmail.com">
