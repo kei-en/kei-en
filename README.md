@@ -6,7 +6,7 @@
     >
 </div>
 
-**👋 I'm Kei En** _(pronounced k,n)_
+**👋 I'm Kei eN** _(pronounced k,n)_
 
 -------
 - ⚡ Music is my preferred chaser while coding 😆.
